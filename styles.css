@@ -1,0 +1,104 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #EDEEEE;
+    margin: 22px 20px 60px 20px;
+    border-radius: 20px;
+    height: 185rem;
+
+}
+
+
+.description {
+    padding: 20px;
+    margin: 0px 20px 10px 20px;
+    padding: 10px 30px;
+    height: 291px;
+
+}
+
+
+.my-name{
+    margin: 10px 0px 0px 0px ;
+}
+
+.summary{
+    padding: 9px 0px 19px 0px;
+    font-size: 18px;
+    /* border: 2px solid red; */
+    width: 946px;
+    height: 167px;
+}
+
+.paragraph{
+    width: 725px;
+    /* border: 2px solid red; */
+}
+
+.profile-image img{
+    height: 156px;
+    width: 165px;
+    border-radius: 12px;
+    margin: 40px 10px 10px 74px;
+    border: 3px solid black;
+}
+
+
+.profile-image{
+    margin: 10px 10px;
+}
+
+.contact-details{
+    background-color: #cdcdcd;
+    height: 515px;
+    padding: 4px 47px;
+    border-radius: 8px;
+
+    
+}
+
+.contact-details a{
+    font-size: 20px;
+    color: black;
+}
+
+.contact-details div{
+    margin:20px 0px;
+}
+
+
+.heading {
+    font-size: 26px;
+}
+
+
+.sub-heading{
+    font-size: 35px;
+    margin: 54px 0px 2px 0px;
+}
+
+.experience{
+    padding: 4px 47px;
+    height: 500px;
+
+}
+.education{
+    padding: 4px 47px;
+    height: 392px;
+
+}
+
+.skills{
+    padding: 4px 47px;
+    height: 392px;
+
+}
+.certificates{
+    padding: 4px 47px;
+    height: 392px;
+
+}
